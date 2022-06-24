@@ -4,7 +4,12 @@
 	<path id="compile.classpath">
         <fileset dir="WebContent/WEB-INF/lib">
             <include name="*.jar"/>
+
+		
+		<!--HI--->
+
 		<!--HI Master---->
+
         </fileset>
     </path>
     <target name="init">
